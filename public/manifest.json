@@ -45,7 +45,7 @@
 	],
 	"theme_color": "#ffffff",
 	"background_color": "#dddddd",
-	"start_url": "index.html",
+	"start_url": ".",
 	"display": "standalone",
 	"orientation": "portrait",
 	"description": "An app that allows to keep track of your budget."

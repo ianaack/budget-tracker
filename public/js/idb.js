@@ -69,6 +69,7 @@ function uploadItem() {
 					const transaction = db.transaction(["new_item"], "readwrite");
 					const budgetObjectStore = transaction.objectStore("new_item");
 					budgetObjectStore.clear();
+					alert("All Offline Transactions have been submitted!");
 				})
 				.catch((err) => {
 					console.log(err);
