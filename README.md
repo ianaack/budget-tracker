@@ -21,13 +21,19 @@ There is no need for contribution at this time, but have a look at some other pr
 
 ## Deployment
 
-This app is deployed via Heroku and can be found [here](https://ianaack-budget-tracker.herokuapp.com/).
+### This app is deployed via Heroku and can be found [here](https://ianaack-budget-tracker.herokuapp.com/).
 
 Here is what the application looks like on the web:
 
+<img width="634" alt="web-app" src="https://user-images.githubusercontent.com/47282257/175184641-3f8826d3-1179-486d-b880-5ef4db8caedb.png">
+
 Here is what the application looks like on your desktop:
 
+<img width="939" alt="downloaded_pwa" src="https://user-images.githubusercontent.com/47282257/175184665-652a7629-b864-4d36-a09f-1d77a1289707.png">
+
 And here is where you can find the downloaded PWA in your start menu:
+
+<img width="172" alt="start-menu" src="https://user-images.githubusercontent.com/47282257/175184662-0a550028-98c9-42c0-bd78-127cd50c5de9.png">
 
 ## License
 
